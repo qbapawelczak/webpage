@@ -23,7 +23,7 @@ theme = "hugo-goa"
 [params]
 author = "Jakub M. Pawelczak"
 intro = "PhD Student"
-description = "University of Minnesota <br/> \pawel042@umn.edu\"
+description = "University of Minnesota <br/> pawel042@umn.edu"
 authorimage = "avatar.jpg"
 dateformat = "Jan 2, 2006"
 

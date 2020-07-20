@@ -56,12 +56,12 @@ hightlightjs = true
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
-    name = "about"
+    name = "about me"
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "posts"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+#[[menu.main]]
+ #   name = "posts"
+ #   identifier = "coderag"
+ #   weight = 300
+ #   url = "/coderag/"

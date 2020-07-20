@@ -12,7 +12,7 @@ description = ""
 
 +++
 
-## Microeconomics 8101 <h2> 
+##  8101 - prof. Jan Werner <h2> 
 **[Recitation 1](/book.pdf)**
   
 

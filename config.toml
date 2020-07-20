@@ -61,7 +61,7 @@ hightlightjs = true
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "post"
+    name = "posts"
     identifier = "coderag"
     weight = 300
     url = "/coderag/"

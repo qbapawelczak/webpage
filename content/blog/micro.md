@@ -18,6 +18,6 @@ showpagemeta = false
 
 ##  8101 - prof. Jan Werner <h2> 
 **[Recitation 1](/book.pdf)**
-**[Recitation 2](/Learning in networks.pdf)**
+**[Recitation 2](/Learninginnetworks.pdf)**
   
 

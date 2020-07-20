@@ -14,6 +14,6 @@ showpagemeta = false
 
 
 I am interested in
-* Theory
-* Macro
-* Beer
+- Theory
+- Macro
+- Beer

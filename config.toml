@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Jakub M. Pawelczak"
-title = "Jakub M. Pawelczak"
+author = "Jakub Pawelczak"
+title = "Jakub Pawelczak"
 
 theme = "hugo-goa"
 

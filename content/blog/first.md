@@ -7,12 +7,11 @@ showpagemeta = true
 showcomments = true
 slug = ""
 #tags = ["gavin", "belson", "hooli", "hardware"]
-title = "Microeconomics"
+title = "Microeconomics 2020-2021"
 description = ""
 
 +++
-# Microeconomics 2020-2021 <h1>
-  
+
 ## Microeconomics 8101 <h2> 
 **[Recitation 1](/book.pdf)**
   

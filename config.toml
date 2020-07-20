@@ -46,7 +46,7 @@ email = "pawel042@umn.edu"
 ## Extras
 [params.extra]
 copyright = "© 2020. Jakub Pawelczak. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true
+#poweredby = true
 hightlightjs = true
 
 ## Main Menu

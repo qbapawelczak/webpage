@@ -13,6 +13,6 @@ description = ""
 +++
 
 ##  8101 - prof. Jan Werner <h2> 
-**[Recitation 1](/book.pdf/) **
+**[Recitation 1](/book.pdf)**
   
 

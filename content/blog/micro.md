@@ -1,11 +1,14 @@
 +++
-categories = ["about"]
+categories = ["teaching"]
 comments = false
-date = "2016-10-02T22:55:05-04:00"
+date = "2020-07-19T04:59:13-04:00"
 draft = false
+showpagemeta = false
+showcomments = true
 slug = ""
-tags = ["about"]
-title = "About"
+tags = ["gavin", "belson", "hooli", "hardware"]
+title = "Microeconomics 2020-2021"
+description = ""
 
 showpagemeta = false
 

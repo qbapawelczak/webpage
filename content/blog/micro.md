@@ -15,6 +15,8 @@ description = ""
 
 
 +++
+**[Prelim questions](/microprelim.pdf)**
+
 
 ##  8101 - prof. Jan Werner <h2> 
 **[Recitation 1](/book.pdf)**

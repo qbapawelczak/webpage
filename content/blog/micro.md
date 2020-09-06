@@ -19,8 +19,11 @@ description = ""
 
 
 ##  8101 - prof. Jan Werner <h2> 
-**[Recitation 1](/book.pdf)**
+
+**[Introduction](/intro.pdf)**
+
+**[Recitation 1](/Recitation1_091020.pdf)**
   
-**[Recitation 2](/Learninginnetworks.pdf)**
+
   
 

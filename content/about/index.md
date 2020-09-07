@@ -17,5 +17,5 @@ I am interested in <br />
 - Theory <br /> 
 - Macro <br /> 
 - Beer <br /> 
-Below my own brew
+Below my own brew <br />
 ![My own brew](beer1.jpeg =100x20)

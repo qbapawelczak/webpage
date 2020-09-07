@@ -16,6 +16,5 @@ showpagemeta = false
 I am interested in <br /> 
 - Theory <br /> 
 - Macro <br /> 
-- Beer <br /> 
-Below my own brew <br />
-![My own brew](beer1.jpeg){ width=20% height=20% }
+- Macro theory <br /> 
+

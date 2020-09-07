@@ -18,4 +18,4 @@ I am interested in <br />
 - Macro <br /> 
 - Beer <br /> 
 Below my own brew <br />
-![My own brew](beer1.jpeg)
+![My own brew](beer1.jpeg){ width=50% }

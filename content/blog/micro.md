@@ -23,7 +23,7 @@ description = ""
 **[Introduction](/intro.pdf)**
 
 **[Recitation 1](/Recitations1_091020.pdf) ** 
-** [Solutions 1] (/Recitations1.pdf) **
+**[Solutions 1](/Recitations1.pdf) **
   
 
   

@@ -30,7 +30,11 @@ description = ""
 
 **[Solutions 2](/Recitations2_c.pdf)**
   
+**[Recitation 3](/Recitations3_092420.pdf)** 
 
+**[Debreu's Thm - general proof](/3Debreu.pdf)** 
+
+**[Afriat's Thm - proof](/3Afriat.pdf)** 
 
   
 

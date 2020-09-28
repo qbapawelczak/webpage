@@ -36,5 +36,6 @@ description = ""
 
 **[Afriat's Thm - proof](/3Afriat.pdf)** 
 
+**[Solutions 3](/Recitations3_c.pdf)**
   
-
+**[Old Midterms](/midetrm_mini1.pdf)**

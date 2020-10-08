@@ -41,3 +41,7 @@ description = ""
 **[Old Midterms](/midterm1.pdf)**
 
 **[Recitation 4](/Recitations4_100120.pdf)** 
+
+**[Solutions 4](/Recitations4_c.pdf)**
+  
+**[Recitation 5](/Recitations5_100820.pdf)** 

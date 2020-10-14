@@ -17,6 +17,7 @@ description = ""
 +++
 **[Prelim questions](/microprelim.pdf)**
 
+**[Math appendix] (/mathappendix.pdf)**
 
 ##  8101 - prof. Jan Werner <h2> 
 

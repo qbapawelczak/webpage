@@ -54,7 +54,7 @@ description = ""
 
 **[Solutions 6](/Recitations6_c.pdf)**
 
-**[Recitation 7](/Recitations7_101920.pdf)** 
+**[Recitation 7](/Recitations7_102120.pdf)** 
 
 
 

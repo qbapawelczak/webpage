@@ -56,6 +56,6 @@ description = ""
 
 **[Recitation 7](/Recitations7_102120.pdf)** 
 
-
+**[Solutions 7](/Recitations7_c.pdf)** 
 
 ##  8101 - prof. Chris Phelan <h2> 

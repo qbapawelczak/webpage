@@ -19,8 +19,22 @@ description = ""
 
 
 **[Math appendix](/mathappendix.pdf)** 
+##  8101 - profesor Chris Phelan <h2> 
+  
+**[Recitation 8](/Recitations8_291020.pdf)** 
+**[Solutions 8](/Recitations8_c.pdf)**
+**[Recitation 9](/Recitations9_051120.pdf)**
+**[Solutions 9](/Recitations1=9_c.pdf)**
+**[Recitation 10](/Recitations10_121120.pdf)** 
+**[Solutions 10](/Recitations10_c.pdf)**
+**[Recitation 11](/Recitations11_191120.pdf)** 
+**[Solutions 11](/Recitations11_c.pdf)**
+**[Recitation 12](/Recitations12_031220.pdf)** 
+**[Solutions 12](/Recitations12_c.pdf)**
+**[Recitation 13](/Recitations13_101220.pdf)** 
+**[Solutions 13](/Recitations13_c.pdf)**
 
-##  8101 - prof. Jan Werner <h2> 
+##  8101 - profesor Jan Werner <h2> 
 
 **[Introduction](/intro.pdf)**
 
@@ -58,4 +72,4 @@ description = ""
 
 **[Solutions 7](/Recitations7_c.pdf)** 
 
-##  8101 - prof. Chris Phelan <h2> 
+

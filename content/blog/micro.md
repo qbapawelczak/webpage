@@ -25,7 +25,7 @@ description = ""
   
 **[Recitation 8](/Recitations8_291020.pdf)** 
 
-**[Solutions 8](/Recitations81_c.pdf)**
+**[Solutions 8](/Recitations8_c.pdf)**
 
 **[Recitation 9](/Recitations9_051120.pdf)**
 

@@ -19,7 +19,7 @@ description = ""
 
 
 **[Math appendix](/mathappendix.pdf)** 
-##  8101 - profesor Chris Phelan <h2> 
+##  8101 - Professor Chris Phelan <h2> 
   
  **[Introduction- MINI 2](/intro2.pdf)**
   
@@ -38,7 +38,7 @@ description = ""
 **[Recitation 13](/Recitations13_101220.pdf)** 
 
 
-##  8101 - profesor Jan Werner <h2> 
+##  8101 - Professor Jan Werner <h2> 
 
 **[Introduction- MINI 1](/intro.pdf)**
 

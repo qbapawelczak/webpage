@@ -27,8 +27,6 @@ description = ""
 
 **[Recitation 11](/Recitations11_191120.pdf)** 
 
-**[Solutions 10](/Recitations10_c.pdf)** 
-
 **[Recitation 10](/Recitations10_121120.pdf)** 
 
 **[Solutions 9 + General Equilibrium notes](/Recitations9_c.pdf)**

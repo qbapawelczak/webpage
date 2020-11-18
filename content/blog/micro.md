@@ -25,11 +25,11 @@ description = ""
 
 **[Recitation 12](/Recitations12_031220.pdf)** 
 
-**[Recitation 11](/Recitations11_191120.pdf)** 
+**[Solution 11](/Recitations11_c.pdf)** 
+
+**[Recitation 11 - Midterms](/midterms.pdf)**
 
 **[Solution of HW 2](/hw2.pdf)**
-
-**[Midterms](/midterms.pdf)**
 
 **[Solutions 10](/Recitations10_c.pdf)**
 

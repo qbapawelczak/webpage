@@ -23,6 +23,8 @@ description = ""
   
 **[Recitation 13](/Recitations13_101220.pdf)** 
 
+**[Solution 12](/Recitations12_c.pdf)** 
+
 **[Recitation 12](/Recitations12_031220.pdf)** 
 
 **[Solution 11](/Recitations11_c.pdf)** 

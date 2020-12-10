@@ -22,6 +22,8 @@ description = ""
   
  **[Finals](/finals.pdf)**
   
+ **[Solution 13](/Recitations13_c.pdf)** 
+
 **[Recitation 13](/Recitations13_101220.pdf)** 
 
 **[Solution 12](/Recitations12_c.pdf)** 

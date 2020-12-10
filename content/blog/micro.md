@@ -20,6 +20,7 @@ description = ""
 
 ##  8101 - Professor Chris Phelan <h2> 
   
+ **[Finals](/finals.pdf)**
   
 **[Recitation 13](/Recitations13_101220.pdf)** 
 

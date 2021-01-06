@@ -18,11 +18,20 @@ description = ""
 
 **[Math appendix](/mathappendix.pdf)** 
 
-##  8101 - Professor Chris Phelan <h2> 
+
+##  8103 - Professor Aldo Rustichini <h2> 
   
- **[Finals](/finals.pdf)**
+
+**[Recitation 15](/Recitations15_210121.pdf)** 
+
+**[Introduction- MINI 3](/intro3.pdf)**
+
+##  8102 - Professor Chris Phelan <h2> 
   
- **[Solution 13](/Recitations13_c.pdf)** 
+  
+ **[Recitation 14- Finals](/finals.pdf)**
+  
+**[Solution 13](/Recitations13_c.pdf)** 
 
 **[Recitation 13](/Recitations13_101220.pdf)** 
 
@@ -49,6 +58,7 @@ description = ""
 **[Recitation 8](/Recitations8_291020.pdf)** 
 
  **[Introduction- MINI 2](/intro2.pdf)**
+ 
 
 ##  8101 - Professor Jan Werner <h2> 
 

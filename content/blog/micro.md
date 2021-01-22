@@ -22,7 +22,7 @@ description = ""
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   
-**[Solution 13](/Recitations15_c.pdf)** 
+**[Solution 15](/Recitations15_c.pdf)** 
 
 **[Recitation 15](/Recitations15_210121.pdf)** 
 

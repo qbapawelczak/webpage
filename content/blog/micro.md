@@ -18,11 +18,11 @@ description = ""
 
 **[Math appendix](/mathappendix.pdf)** 
 
-**[Theory of Game theory-notes](/theoryofgametheorypart.pdf)** 
+**[Theory of Game theory-notes part1](/gtpart1.pdf)** 
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   
-  **[Solution 16](/Recitations16_.pdf)** 
+  **[Solution 16](/Recitations16_c.pdf)** 
   
   **[Recitation 16](/Recitations16_280121.pdf)** 
   

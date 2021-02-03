@@ -22,6 +22,8 @@ description = ""
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   
+ **[Midterms](/midterms3.pdf)**
+  
 **[Recitation 17](/Recitations17_040221.pdf)** 
   
 **[Solution 16](/Recitations16_c.pdf)** 

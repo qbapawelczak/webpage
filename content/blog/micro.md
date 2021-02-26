@@ -24,7 +24,7 @@ description = ""
   
 **[Recitation 21-FINALS](/finals3.pdf)** 
   
-**[Solution 20](/Recitations20_cc.pdf)** 
+**[Solution 20](/Recitations20_c.pdf)** 
   
 **[Recitation 20](/Recitations20_250221.pdf)** 
 

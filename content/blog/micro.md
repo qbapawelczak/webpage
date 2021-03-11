@@ -24,7 +24,7 @@ description = ""
   
   **[Introduction- MINI 4](/intro4.pdf)**
   
-**[Recitation 22- Herding](/Recitations22_110321.pdf)** 
+**[Recitation 22- Herding](/Recitations22.pdf)** 
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   

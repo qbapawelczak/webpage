@@ -20,6 +20,12 @@ description = ""
 
 **[Theory of Game theory - notes ](/GTnotes.pdf)** 
 
+##  8104 - Professor David Rahman <h2> 
+  
+  **[Introduction- MINI 4](/intro4.pdf)**
+  
+**[Recitation 22- Herding](/Recitations22_110321.pdf)** 
+
 ##  8103 - Professor Aldo Rustichini <h2> 
   
   **[Solution 21](/Recitations21_c.pdf)** 

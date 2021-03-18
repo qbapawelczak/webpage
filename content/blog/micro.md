@@ -22,11 +22,13 @@ description = ""
 
 ##  8104 - Professor David Rahman <h2> 
   
-**[Solution 23](/Recitations23_cc.pdf)** 
+  **[Recitation 24](/Recitations24_250321.pdf)** 
+  
+**[Solution 23](/Recitations23_c.pdf)** 
   
 **[Recitation 23](/Recitations23_180321.pdf)** 
   
-**[Recitation 22- Herding](/Recitations22_110321v1.pdf)** 
+**[Recitation 22- Herding](/Recitations22_110321.pdf)** 
 
   **[Introduction- MINI 4](/intro4.pdf)**
 

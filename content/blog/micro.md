@@ -26,7 +26,7 @@ description = ""
   
 **[Recitation 23](/Recitations23_180321.pdf)** 
   
-**[Recitation 22- Herding](/Recitations22_110321.pdf)** 
+**[Recitation 22- Herding](/Recitations22_110321v1.pdf)** 
 
   **[Introduction- MINI 4](/intro4.pdf)**
 

@@ -14,7 +14,7 @@ description = ""
 
 
 +++
-**[Prelim questions](/microprelim.pdf)**
+**[Prelim questions](/prelims.pdf)**
 
 **[Math appendix](/mathappendix.pdf)** 
 

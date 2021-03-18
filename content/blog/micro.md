@@ -22,7 +22,7 @@ description = ""
 
 ##  8104 - Professor David Rahman <h2> 
   
-**[Solution 23](/Recitations23_c.pdf)** 
+**[Solution 23](/Recitations23_cc.pdf)** 
   
 **[Recitation 23](/Recitations23_180321.pdf)** 
   

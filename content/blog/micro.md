@@ -32,6 +32,8 @@ description = ""
     
   **[Recitation 25](/Recitations25_010421.pdf)** 
   
+  **[Solution 24](/Recitations24_c.pdf)** 
+  
   **[Recitation 24](/Recitations24_250321.pdf)** 
   
 **[Solution 23](/Recitations23_c.pdf)** 

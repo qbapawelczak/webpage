@@ -46,7 +46,7 @@ description = ""
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   
-  **[Solution 21](/R21.pdf)** 
+  **[Solution 21](/R21c.pdf)** 
   
 **[Recitation 21-FINALS](/finals3.pdf)** 
   
@@ -95,7 +95,7 @@ description = ""
 
 **[Solution of HW 2](/hw2.pdf)**
 
-**[Solutions 10](/R10.pdf)**
+**[Solutions 10](/R10C.pdf)**
 
 **[Recitation 10](/R10.pdf)** 
 

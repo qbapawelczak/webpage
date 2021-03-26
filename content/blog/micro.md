@@ -28,51 +28,51 @@ description = ""
   
  **[Recitation 27](/Recitations27_220421.pdf)** 
     
- **[Recitation 26](/Recitations26_150421.pdf)** 
+ **[Recitation 26](/R26.pdf)** 
     
   **[Recitation 25](/Recitations25_010421.pdf)** 
   
-  **[Solution 24](/Recitations24_c.pdf)** 
+  **[Solution 24](/R24c.pdf)** 
   
-  **[Recitation 24](/Recitations24_250321.pdf)** 
+  **[Recitation 24](/R24.pdf)** 
   
-**[Solution 23](/Recitations23_c.pdf)** 
+**[Solution 23](/R23c.pdf)** 
   
-**[Recitation 23](/Recitations23_180321.pdf)** 
+**[Recitation 23](/R23.pdf)** 
   
-**[Recitation 22- Herding](/Recitations22_110321.pdf)** 
+**[Recitation 22- Herding](/R22.pdf)** 
 
   **[Introduction- MINI 4](/intro4.pdf)**
 
 ##  8103 - Professor Aldo Rustichini <h2> 
   
-  **[Solution 21](/Recitations21_c.pdf)** 
+  **[Solution 21](/R21.pdf)** 
   
 **[Recitation 21-FINALS](/finals3.pdf)** 
   
-**[Solution 20](/Recitations20_c.pdf)** 
+**[Solution 20](/R20c.pdf)** 
   
-**[Recitation 20](/Recitations20_250221.pdf)** 
+**[Recitation 20](/R20.pdf)** 
 
 **[Solution 19](/Recitations19_c.pdf)** 
   
-**[Recitation 19](/Recitations19_180221.pdf)** 
+**[Recitation 19](/R19.pdf)** 
   
 **[Solution 18](/Recitations18_c.pdf)** 
   
 **[Midterms- Recitations 18](/midterms3.pdf)**
  
-**[Solution 17](/Recitations17_c.pdf)** 
+**[Solution 17](/R17c.pdf)** 
   
-**[Recitation 17](/Recitations17_040221.pdf)** 
+**[Recitation 17](/R17.pdf)** 
   
-**[Solution 16](/Recitations16_c.pdf)** 
+**[Solution 16](/R16c.pdf)** 
   
-**[Recitation 16](/Recitations16_280121.pdf)** 
+**[Recitation 16](/R16.pdf)** 
   
 **[Solution 15](/Recitations15_c.pdf)** 
 
-**[Recitation 15](/Recitations15_210121.pdf)** 
+**[Recitation 15](/R15.pdf)** 
 
 **[Introduction- MINI 3](/intro3.pdf)**
 
@@ -83,11 +83,11 @@ description = ""
   
 **[Solution 13](/Recitations13_c.pdf)** 
 
-**[Recitation 13](/Recitations13_101220.pdf)** 
+**[Recitation 13](/R13.pdf)** 
 
 **[Solution 12](/Recitations12_c.pdf)** 
 
-**[Recitation 12](/Recitations12_031220.pdf)** 
+**[Recitation 12](/R12.pdf)** 
 
 **[Solution 11](/Recitations11_c.pdf)** 
 
@@ -95,17 +95,17 @@ description = ""
 
 **[Solution of HW 2](/hw2.pdf)**
 
-**[Solutions 10](/Recitations10_c.pdf)**
+**[Solutions 10](/R10.pdf)**
 
-**[Recitation 10](/Recitations10_121120.pdf)** 
+**[Recitation 10](/R10.pdf)** 
 
 **[Solutions 9 + General Equilibrium notes](/Recitations9_c.pdf)**
 
-**[Recitation 9](/Recitations9_051120.pdf)**
+**[Recitation 9](/R9.pdf)**
 
-**[Solutions 8](/Recitations8_c.pdf)**
+**[Solutions 8](/R8c.pdf)**
   
-**[Recitation 8](/Recitations8_291020.pdf)** 
+**[Recitation 8](/R8.pdf)** 
 
  **[Introduction- MINI 2](/intro2.pdf)**
  
@@ -115,36 +115,36 @@ description = ""
 
 **[Solutions 7](/Recitations7_c.pdf)** 
 
-**[Recitation 7](/Recitations7_102120.pdf)** 
+**[Recitation 7](/R7.pdf)** 
 
 **[Solutions 6](/Recitations6_c.pdf)**
 
-**[Recitation 6](/Recitations6_101520.pdf)** 
+**[Recitation 6](/R6.pdf)** 
 
-**[Solutions 5](/Recitations5_c.pdf)**
+**[Solutions 5](/R5c.pdf)**
 
-**[Recitation 5](/Recitations5_100820.pdf)** 
+**[Recitation 5](/R5.pdf)** 
 
-**[Solutions 4](/Recitations4_c.pdf)**
+**[Solutions 4](/R4c.pdf)**
 
-**[Recitation 4](/Recitations4_100120.pdf)** 
+**[Recitation 4](/R4.pdf)** 
 
 **[Old Midterms](/midterm1.pdf)**
 
-**[Debreu's Thm - general proof](/3Debreu.pdf)** 
+**[Debreu's Thm - general proof](/R3Debreu.pdf)** 
 
-**[Afriat's Thm - proof](/3Afriat.pdf)** 
+**[Afriat's Thm - proof](/R3Afriat.pdf)** 
 
 **[Solutions 3](/Recitations3_c.pdf)**
 
-**[Recitation 3](/Recitations3_092420.pdf)** 
+**[Recitation 3](/R3.pdf)** 
 
-**[Solutions 2](/Recitations2_c.pdf)**
+**[Solutions 2](/R2c.pdf)**
 
-**[Recitation 2](/Recitations2_091720.pdf)**
+**[Recitation 2](/R2.pdf)**
 
 **[Solutions 1](/Recitations1_c.pdf)**
 
-**[Recitation 1](/Recitations1_091020.pdf)** 
+**[Recitation 1](/R1.pdf)** 
 
 **[Introduction- MINI 1](/intro.pdf)**

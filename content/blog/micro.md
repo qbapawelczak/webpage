@@ -24,13 +24,13 @@ description = ""
 
 ##  8104 - Professor David Rahman <h2> 
   
-**[Recitation 28](/Recitations28_290421.pdf)** 
+**[Recitation 28](/R28.pdf)** 
   
- **[Recitation 27](/Recitations27_220421.pdf)** 
+ **[Recitation 27](/R27.pdf)** 
     
  **[Recitation 26](/R26.pdf)** 
     
-  **[Recitation 25](/Recitations25_010421.pdf)** 
+  **[Recitation 25](/R25.pdf)** 
   
   **[Solution 24](/R24c.pdf)** 
   

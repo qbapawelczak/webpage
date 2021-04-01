@@ -29,6 +29,8 @@ description = ""
  **[Recitation 27](/R27.pdf)** 
     
  **[Recitation 26](/R26.pdf)** 
+ 
+   **[Mechanism Design notes and Solution 25](/R25c.pdf)** 
     
   **[Recitation 25](/R25.pdf)** 
   

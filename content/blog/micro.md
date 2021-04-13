@@ -24,13 +24,15 @@ description = ""
 
 ##  8104 - Professor David Rahman <h2> 
   
+ **[Solution 28](/R28cc.pdf)** 
+  
 **[Recitation 28](/R28.pdf)** 
   
  **[Recitation 27](/R27.pdf)** 
     
- **[Recitation 26](/R26.pdf)** 
+ **[Recitation 26 Mirrlees taxation](/R26.pdf)** 
  
-   **[Mechanism Design notes and Solution 25](/R25c.pdf)** 
+   **[Solution 25 and Mechanism Design notes  ](/R25c.pdf)** 
     
   **[Recitation 25](/R25.pdf)** 
   

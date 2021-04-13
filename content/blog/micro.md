@@ -28,7 +28,7 @@ description = ""
   
 **[Recitation 28](/R28.pdf)** 
   
- **[Recitation 27](/R27.pdf)** 
+ **[Recitation 27](/R27c.pdf)** 
     
  **[Recitation 26 Mirrlees taxation](/R26.pdf)** 
  

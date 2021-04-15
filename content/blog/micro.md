@@ -30,7 +30,7 @@ description = ""
   
  **[Recitation 27](/R27c.pdf)** 
     
- **[Recitation 26 Mirrlees taxation](/R26.pdf)** 
+ **[Recitation 26 Mirrlees taxation](/R26c.pdf)** 
  
    **[Solution 25 and Mechanism Design notes  ](/R25c.pdf)** 
     

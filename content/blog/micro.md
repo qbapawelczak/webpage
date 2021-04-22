@@ -28,9 +28,9 @@ description = ""
   
 **[Recitation 28](/R28.pdf)** 
   
- **[Recitation 27](/R27c.pdf)** 
+ **[Recitation 27- HW3 solution](/R27.pdf)** 
     
- **[Recitation 26 Mirrlees taxation](/R26c.pdf)** 
+ **[Recitation 26 Mirrlees taxation](/R26.pdf)** 
  
    **[Solution 25 and Mechanism Design notes  ](/R25c.pdf)** 
     

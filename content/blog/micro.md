@@ -24,7 +24,7 @@ description = ""
 
 ##  8104 - Professor David Rahman <h2> 
   
- **[Solution 28](/R28c.pdf)** 
+ **[Solution 28](/R28cc.pdf)** 
   
 **[Recitation 28](/R28.pdf)** 
   

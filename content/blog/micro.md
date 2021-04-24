@@ -18,9 +18,9 @@ description = ""
 
 **[Math appendix](/mathappendix.pdf)** 
 
-**[Theory of Game theory - notes ](/gtnotes2.pdf)** 
+**[Theory of Game theory - notes MINI III ](/gtnotes2.pdf)** 
 
-***[NEW ! Mechanisms of Mechanisms Design  ](/md.pdf)*** 
+***[Mechanisms of Mechanisms Design - notes MINI IV ](/md.pdf)*** 
 
 ##  8104 - Professor David Rahman <h2> 
   

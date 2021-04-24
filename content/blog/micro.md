@@ -20,7 +20,7 @@ description = ""
 
 **[Theory of Game theory - notes MINI III ](/gtnotes2.pdf)** 
 
-***[Mechanisms of Mechanisms Design - notes MINI IV ](/md.pdf)*** 
+**[Mechanisms of Mechanisms Design - notes MINI IV ](/md.pdf)**
 
 ##  8104 - Professor David Rahman <h2> 
   

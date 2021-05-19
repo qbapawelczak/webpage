@@ -18,8 +18,7 @@ description = ""
 
 **[Math appendix](/mathappendix.pdf)** 
 
-**[Theory of Game theory - notes MINI III ](/gtnotes2.pdf)** 
+**[notes MINI III Theory of Game theory](/ECON8103.pdf)** 
 
-**[Mechanisms of Mechanisms Design - notes MINI IV ](/md.pdf)**
-
+**[notes MINI IV Mechanisms of Mechanisms Design](/ECON8104.pdf)**
 

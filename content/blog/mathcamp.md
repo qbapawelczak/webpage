@@ -10,8 +10,9 @@ slug = ""
 title = "Mathcamp 2021"
 description = ""
 
++++
 
-
+**[Introduction](/intromathcamp.pdf)**
 
 +++
 **[Prelim questions](/prelims.pdf)**

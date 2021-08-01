@@ -14,10 +14,9 @@ description = ""
 
 **[Introduction](/intromathcamp.pdf)**
 
-+++
-**[Prelim questions](/prelims.pdf)**
-
 **[Math appendix](/mathappendix.pdf)** 
+
+**[Prelim questions](/prelims.pdf)**
 
 **[notes MINI III Theory of Game theory](/ECON8103.pdf)** 
 

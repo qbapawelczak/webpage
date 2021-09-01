@@ -147,7 +147,7 @@ description = ""
 
 **[Recitation 2](/R2.pdf)**
 
-**[Solutions 1](/Recitations1_c.pdf)**
+**[Solutions 1](//Recitations1_c.pdf)**
 
 **[Recitation 1](/R1.pdf)** 
 

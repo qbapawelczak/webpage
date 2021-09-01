@@ -38,7 +38,8 @@ description = ""
   
 **[Recitation 22- Herding](/R22.pdf)** 
 
-  **[Introduction- MINI 4](/intro4.pdf)**
+
+  
 
 ##  8103 - Professor Aldo Rustichini <h2> 
    
@@ -56,12 +57,13 @@ description = ""
   
 **[Recitation 15](/R15.pdf)** 
 
-**[Introduction- MINI 3](/intro3.pdf)**
+
+  
 
 ##  8102 - Professor Chris Phelan <h2> 
   
   
- **[Recitation 14- Finals](/finals.pdf)**
+**[Recitation 14- Finals](/finals.pdf)**
   
 **[Recitation 13](/R13.pdf)** 
 
@@ -75,12 +77,11 @@ description = ""
   
 **[Recitation 8](/R8.pdf)** 
 
- **[Introduction- MINI 2](/intro2.pdf)**
+
  
 
 ##  8101 - Professor Jan Werner <h2> 
 
-**[Solutions 7](/Recitations7_c.pdf)** 
 
 **[Recitation 7](/R7.pdf)** 
 
@@ -102,4 +103,4 @@ description = ""
 
 **[Recitation 1](/R1.pdf)** 
 
-**[Introduction- MINI 1](/intro.pdf)**
+

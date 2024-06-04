@@ -59,7 +59,7 @@ hightlightjs = false
 [[menu.main]]
     name = "Teaching"
     weight = 200
-    identifier = "teaching"
+    identifier = "blog"
     url = "/teaching/"
 [[menu.main]]
     name = "about me"
@@ -69,11 +69,5 @@ hightlightjs = false
 
 
 
-[Flipping Houses in a Decentralized Market](/Flippers__JMP.pdf)
 
-
-[Migration Policy in a Spatial Equilibrium Model](/Migration.pdf) 
-
-
-[Homeownership and...](/homeownership.pdf)
 

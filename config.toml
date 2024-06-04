@@ -54,7 +54,7 @@ hightlightjs = false
     name = "Research"
     identifier = "research"
     weight = 100
-#   url = "/research/"
+   url = "/research/"
 
 [[menu.main]]
     name = "Teaching"
@@ -69,11 +69,11 @@ hightlightjs = false
 
 
 
-**[Flipping Houses in a Decentralized Market](/Flippers__JMP.pdf)**
+[Flipping Houses in a Decentralized Market](/Flippers__JMP.pdf)
 
 
-**[Migration Policy in a Spatial Equilibrium Model](/Migration.pdf)** 
+[Migration Policy in a Spatial Equilibrium Model](/Migration.pdf) 
 
 
-**[Homeownership and...](/homeownership.pdf)**
+[Homeownership and...](/homeownership.pdf)
 

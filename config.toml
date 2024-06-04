@@ -22,8 +22,8 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Jakub M. Pawelczak"
-intro = "PhD Candidate"
-description = "University of Minnesota <br/> Department of Economics <br/> pawel042@umn.edu"
+intro = "PhD Candidate in Economics "
+description = "University of Minnesota  <br/> pawel042@umn.edu"
 authorimage = "avatar.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -59,7 +59,7 @@ hightlightjs = false
 [[menu.main]]
     name = "Teaching"
     weight = 200
-    identifier = "blog"
+    identifier = "teaching"
     url = "/teaching/"
 [[menu.main]]
     name = "about me"

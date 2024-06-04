@@ -51,17 +51,18 @@ hightlightjs = false
 
 ## Main Menu
 [[menu.main]]
-    name = "teaching"
+    name = "Research"
+    identifier = "research"
     weight = 100
-    identifier = "blog"
-    url = "/blog/"
+#   url = "/research/"
+
+[[menu.main]]
+    name = "Teaching"
+    weight = 200
+    identifier = "teaching"
+    url = "/teaching/"
 [[menu.main]]
     name = "about me"
     identifier = "about"
-    weight = 200
+    weight = 300
     url = "/about/"
-#[[menu.main]]
- #   name = "posts"
- #   identifier = "coderag"
- #   weight = 300
- #   url = "/coderag/"

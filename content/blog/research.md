@@ -14,8 +14,10 @@ description = ""
 
 **[Flipping Houses in a Decentralized Market](/Flippers__JMP.pdf)**
 
+
 **[Migration Policy in a Spatial Equilibrium Model](/Migration.pdf)** 
-+++
+
+
 **[Homeownership and...](/homeownership.pdf)**
 
 

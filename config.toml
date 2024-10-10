@@ -22,9 +22,9 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Jakub M. Pawelczak"
-intro = "PhD Candidate in Economics "
-description = "University of Minnesota  <br/> pawel042@umn.edu"
-authorimage = "avatar.jpg"
+intro = "I am an economist and PhD candidate at the University of Minnesota, and will be on the 2024/25 Economics Job Market "
+description = "Email  <br/> pawel042@umn.edu"
+authorimage = "me2.jpg"
 dateformat = "2024"
 
 ## Site Meta Settings
@@ -52,18 +52,18 @@ hightlightjs = false
 ## Main Menu
 [[menu.main]]
     name = "Research"
-    identifier = "research"
+    identifier = "Research"
     weight = 100
    url = "/research/"
 
 [[menu.main]]
     name = "Teaching"
     weight = 200
-    identifier = "teaching"
+    identifier = "Teaching"
     url = "/teaching/"
 [[menu.main]]
-    name = "about me"
-    identifier = "about"
+    name = "About me"
+    identifier = "About"
     weight = 300
     url = "/about/"
 

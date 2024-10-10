@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Jakub Pawelczak"
 title = "Jakub Pawelczak"
 
-theme = "hugo-goa"
+#theme = "hugo-goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
@@ -28,7 +28,7 @@ authorimage = "me2.jpg"
 dateformat = "2024"
 
 ## Custom CSS
-customCSS = ["static/main.css"]  # Path to your custom CSS file in the static folder
+customCSS = ["main.css"]  # Path to your custom CSS file in the static folder
 
 ## Site Meta Settings
 [params.meta]

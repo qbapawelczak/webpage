@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "https://www.jakubpawelczak.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -25,12 +25,12 @@ author = "Jakub M. Pawelczak"
 intro = "PhD Candidate in Economics "
 description = "University of Minnesota  <br/> pawel042@umn.edu"
 authorimage = "avatar.jpg"
-dateformat = "Jan 2, 2006"
+dateformat = "2024"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Macroeconomist on the job market with research in Economics"
+keywords = "macroeconomics, econ job market, research, job market candidate"
 
 ## Social Accounts
 [params.social]
@@ -45,7 +45,7 @@ email = "pawel042@umn.edu"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Jakub Pawelczak. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2024. Jakub Pawelczak. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 hightlightjs = false
 

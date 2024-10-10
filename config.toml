@@ -22,10 +22,13 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Jakub M. Pawelczak"
-intro = "I am an economist and PhD candidate at the University of Minnesota, and will be on the 2024/25 Economics Job Market "
+intro = "I am an economist and PhD candidate at the University of Minnesota, and will be on the 2024/25 Economics Job Market"
 description = "Email  <br/> pawel042@umn.edu"
 authorimage = "me2.jpg"
 dateformat = "2024"
+
+## Custom CSS
+customCSS = ["css/main.css"]  # Path to your custom CSS file in the static folder
 
 ## Site Meta Settings
 [params.meta]
@@ -34,13 +37,6 @@ keywords = "macroeconomics, econ job market, research, job market candidate"
 
 ## Social Accounts
 [params.social]
-#github = "<username>"
-#instagram = "<username>"
-#linkedin = "<username>"
-#twitter = "<username>"
-#facebook = "<username>"
-#google = "<username>"
-#stackoverflow = "<username>"
 email = "pawel042@umn.edu"
 
 ## Extras
@@ -54,20 +50,16 @@ hightlightjs = false
     name = "Research"
     identifier = "Research"
     weight = 100
-   url = "/research/"
+    url = "/research/"
 
 [[menu.main]]
     name = "Teaching"
     weight = 200
     identifier = "Teaching"
     url = "/teaching/"
+
 [[menu.main]]
     name = "About me"
     identifier = "About"
     weight = 300
     url = "/about/"
-
-
-
-
-

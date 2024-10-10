@@ -130,8 +130,9 @@ div.content
 }
 .headshot
 {
-    width: 200px;
-    height: 200px;
+    width: 205px;
+    height: 184px;
+    border-radius: 0;
 }
 .info
 {

@@ -28,7 +28,7 @@ authorimage = "me2.jpg"
 dateformat = "2024"
 
 ## Custom CSS
-customCSS = ["css/main.css"]  # Path to your custom CSS file in the static folder
+customCSS = ["static/main.css"]  # Path to your custom CSS file in the static folder
 
 ## Site Meta Settings
 [params.meta]
